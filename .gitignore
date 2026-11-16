@@ -1,0 +1,4 @@
+out/
+*.class
+lib/*.jar
+config/db.properties
